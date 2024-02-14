@@ -1,0 +1,5 @@
+Thirdparty/**
+Vocabulary/**
+.vscode
+build/
+*pdf
